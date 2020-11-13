@@ -12,7 +12,9 @@
     "@nodeutils/defaults-deep": "^1.1.0",
     "body-parser": "^1.19.0",
     "chalk": "^4.1.0",
+    "cookie-parser": "^1.4.5",
     "express": "^4.17.1",
+    "http": "0.0.1-security",
     "it-length-prefixed": "^3.1.0",
     "it-pipe": "^1.1.0",
     "libp2p": "^0.29.3",
@@ -20,9 +22,13 @@
     "libp2p-noise": "^2.0.1",
     "libp2p-tcp": "^0.15.1",
     "libp2p-websockets": "^0.14.0",
+    "morgan": "^1.10.0",
     "multiaddr": "^8.1.1",
     "node-emoji": "^1.10.0",
+    "nodemon": "^2.0.6",
+    "path": "^0.12.7",
     "peer-id": "^0.14.2",
-    "peer-info": "^0.17.5"
+    "peer-info": "^0.17.5",
+    "socket.io": "^3.0.1"
   }
 }
